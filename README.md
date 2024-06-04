@@ -1,4 +1,6 @@
-# ExpAlert App (Coming Soon!) (google gemini)
+# ExpAlert App (Coming Soon!)
+
+This app is build with the help of google gemini
 
 User Flow :- https://miro.com/app/board/uXjVKV82pfs=/?share_link_id=964363281925
 
@@ -8,6 +10,7 @@ Click Here To Download Drive APK ->
 ### Description
 
 Our ExpAlert App is designed to help users keep track of the expiry dates of their products. Users can add various items such as groceries, medications, cosmetics, and more to the app along with their respective expiry dates. The app will then notify users when a product is about to expire, allowing them to take necessary actions such as consuming the product before it expires or purchasing a new one.
+Developed with the support of Google Gemini, our app offers a seamless user experience and cutting-edge features.
 
 ### Screenshots
 
