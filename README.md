@@ -1,9 +1,7 @@
-# ExpAlert App (Coming Soon!)
+# ExpAlert App (Launching Soon!)
 
-User Flow :- https://miro.com/app/board/uXjVKV82pfs=/?share_link_id=964363281925
-
-Click Here To Download Drive APK -> 
-  [Download](https://drive.google.com/file/d/15Gj3IakeN927tw0L5w-ngF5kBZp4HDqP/view?usp=sharing)
+Click Here To Download build APK -> 
+  [Download](https://drive.google.com/file/d/1O0MymeaHwagYH3Dx2egM1wgIAo-dOzdg/view?usp=sharing)
 
 ### Description
 
@@ -55,7 +53,7 @@ To get started with our ExpAlert App, follow these instructions:
 ### Usage
 
 1. Launch the ExpAlert App from your device's home screen.
-2. Continue with mobile number to get started.
+2. Continue with Email or without email
 3. Once logged in, you'll be directed to the main dashboard where you can start adding products.
 4. To add a new product, tap on the "Add Product" button and enter the necessary details such as product name, expiry date, and category.
 5. After adding products, you'll receive notifications when any of them are about to expire.
