@@ -43,14 +43,13 @@ To get started with our ExpAlert App, follow these instructions:
 
 ### Installation
 
-1. Download the latest APK file of the application. ( link given above )
-2. Open the APK file on your Android device to begin the installation process.
-3. Follow the on-screen instructions to complete the installation.
+1. Download the latest APK file from above given link.
+2. Follow the on-screen instructions to complete the installation.
 
 ### Usage
 
 1. Launch the ExpAlert App from your device's home screen.
-2. Continue with Email or without email
+2. Continue with Email.
 3. Once logged in, you'll be directed to the main dashboard where you can start adding products.
 4. To add a new product, tap on the "Add Product" button and enter the necessary details such as product name, expiry date, and category.
 5. After adding products, you'll receive notifications when any of them are about to expire.
