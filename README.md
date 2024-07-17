@@ -12,15 +12,14 @@ Our ExpAlert App is designed to help users keep track of the expiry dates of the
 ### Screenshots
 
 <div align="center">
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/logo.jpg" alt="Logo" width="20%">
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/home%20screen.jpeg" alt="Home Screen" width="20%">
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/add%20product.jpeg" alt="Add Product" width="20%">
+    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/SignIn.jpeg" alt="Signin" width="20%">
+    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/Home.jpeg" alt="Home Screen" width="20%">
+    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/Add%20product.jpeg" alt="Add Product" width="20%">
     <br>
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/add%20note.jpg" alt="Add Note" width="20%">
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/profile.jpg" alt="Profile" width="20%">
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/edit%20profile.jpg" alt="Edit Profile" width="20%">
+    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/Show%20product%201.jpeg" alt="Show Product 1" width="20%">
+    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/Show%20product%202.jpeg" alt="Show Product 2" width="20%">
+    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/update%20note.jpg" alt="Edit Notes" width="20%">
     <br>
-    <img src="https://github.com/Yash-chotaliya/PREXP-SS/blob/main/auth%20screen.jpeg" alt="Auth 1" width="20%">
   
 </div>
 
