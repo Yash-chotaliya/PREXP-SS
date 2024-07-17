@@ -1,7 +1,7 @@
 # ExpAlert App (Launching Soon!)
 
-Click Here To Download build APK -> 
-  [Download](https://drive.google.com/file/d/1O0MymeaHwagYH3Dx2egM1wgIAo-dOzdg/view?usp=sharing)
+Click Here To Download -> 
+  [Download](https://play.google.com/store/apps/details?id=com.prexp.prexp)
 
 ### Description
 
