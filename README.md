@@ -1,4 +1,4 @@
-# ExpAlert App (Launching Soon!)
+# ExpAlert App
 
 Click Here To Download -> 
   [Download](https://play.google.com/store/apps/details?id=com.prexp.prexp)
