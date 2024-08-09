@@ -5,9 +5,23 @@ Download ExpAlert on the Google Play Store:
 
 ### Description
 
-Developed with the support of Google Gemini.
+ExpAlert helps you manage and track the expiry dates of all your products. From food to beauty items, keep everything fresh and avoid waste.
 
-Our ExpAlert App is designed to help users keep track of the expiry dates of their products. Users can add various items such as groceries, medications, cosmetics, and more to the app along with their respective expiry dates. The app will then notify users when a product is about to expire, allowing them to take necessary actions such as consuming the product before it expires or purchasing a new one.
+### Key Features:
+
+- Track Expiry Dates: Get timely notifications for all your products.
+- Dashboard: View all your products in one place.
+- Add & Edit Products: Easily manage product details.
+- Recipe Suggestions: Find creative recipes for nearing expiry items.
+- Easy Navigation: Access features with just a few taps.
+
+### Why ExpAlert?
+
+- Save Money: Use products before they expire.
+- Stay Organized: Keep track of what you have.
+- Be Eco-Friendly: Reduce waste and live sustainably.
+
+Download ExpAlert now and never worry about expired products again!
 
 ### Screenshots
 
@@ -20,15 +34,6 @@ Our ExpAlert App is designed to help users keep track of the expiry dates of the
     <br>
 
 </div>
-
-### Features
-
-- **Product Management**: Users can add, edit, and delete products from their inventory.
-- **Expiry Date Tracking**: The app keeps track of the expiry dates of added products.
-- **Notifications**: Users receive timely notifications when a product is about to expire.
-- **Categories**: Products can be categorized for better organization.
-- **Search Functionality**: Users can easily search for specific products in their inventory.
-- **Recipe**: Get personalized recipe suggestions.
 
 If you encounter any issues or have any feedback regarding our ExpAlert App, please don't hesitate to contact us at [devme187@gmail.com](mailto:devme187@gmail.com). We're here to help!
 
